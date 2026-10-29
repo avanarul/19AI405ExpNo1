@@ -69,10 +69,9 @@ for _ in range(4):
 
 ## OUTPUT
 
-~~~
 <img width="632" height="535" alt="Screenshot 2026-10-29 102108" src="https://github.com/user-attachments/assets/9f124584-d929-4586-9724-5d8b6d9f2d26" />
 
-~~~
+
 
 ## RESULT
 
